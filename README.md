@@ -1,4 +1,4 @@
-# MERGE SORT PROJESİ
+# MERGE SORT PROJESİ [Patika Hesabım](https://app.patika.dev/semanuryabaci)
 
 [16,21,11,8,12,22] -> Merge Sort
 
@@ -20,4 +20,7 @@
                       [11,16,21]        [8,12,22]
                            \                /
                            [8,11,12,16,21,22]
-                     
+                           
+### 2. Sorunun Cevabı
+
+**Merge Sort Algoritması Big-O Gösterimi:** O(nlogn) 
